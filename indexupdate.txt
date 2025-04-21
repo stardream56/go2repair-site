@@ -57,7 +57,6 @@
         <h3>maintenance/cleaning</h3>
         <p>general maintenance service regreasing, thermal paste renew, dust removal, complete strip downs.</p>
       </div>
-     </div
   <div
 
   <div class="section" id="about">
